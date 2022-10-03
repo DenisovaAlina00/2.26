@@ -1,0 +1,15 @@
+/Users/user/Projects/denisova/denisova/bin/Debug/net6.0/denisova
+/Users/user/Projects/denisova/denisova/bin/Debug/net6.0/denisova.deps.json
+/Users/user/Projects/denisova/denisova/bin/Debug/net6.0/denisova.runtimeconfig.json
+/Users/user/Projects/denisova/denisova/bin/Debug/net6.0/denisova.dll
+/Users/user/Projects/denisova/denisova/bin/Debug/net6.0/denisova.pdb
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.csproj.AssemblyReference.cache
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.AssemblyInfoInputs.cache
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.AssemblyInfo.cs
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.csproj.CoreCompileInputs.cache
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.dll
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/refint/denisova.dll
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.pdb
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/denisova.genruntimeconfig.cache
+/Users/user/Projects/denisova/denisova/obj/Debug/net6.0/ref/denisova.dll
